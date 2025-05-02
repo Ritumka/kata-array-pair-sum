@@ -1,4 +1,4 @@
-require_relative "../solution"
+require_relative "../solution_1"
 require "minitest/autorun"
 
 class TestSolution < Minitest::Test
