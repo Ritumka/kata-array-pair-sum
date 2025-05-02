@@ -18,4 +18,4 @@ def pair_sum(array, target)
   return pairs
 end
 
-# doesn't work for pair_sum([0, -1, 2, -3, 1], -2)
+# doesn't work for pair_sum([1, 1, 0], 2)
